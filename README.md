@@ -22,6 +22,5 @@ This project analyzes customer purchase data to identify buying patterns and sug
 ##Key Outcomes
 - Identified most frequently purchased product combinations.
 - Suggested bundling strategies which increased sales by **8%**.
-- Presented findings to stakeholders using PowerPoint.
 - Gained experience with Excel functions, pivot tables, and charts.
 - Practiced data-driven decision-making for business strategy.
